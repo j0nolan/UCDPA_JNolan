@@ -11,3 +11,5 @@ print(y)
 ## use indexing to show first 10 records
 s = dataset
 print(s[:10])
+
+
