@@ -12,6 +12,4 @@ print(left_dataset)
 print(dataset1.shape, dataset2.shape)
 print(left_dataset.shape)
 
-# look at dataset2 prior to plotting
-print(dataset2.head())
-print(dataset2.columns)
+

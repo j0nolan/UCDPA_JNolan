@@ -12,7 +12,7 @@ for lab in dataset.iterrows():
 
 # length of table
 print(len(dataset))
-# length of primary key
+# length of "Player" column as possible primary key
 print(len(dataset.Player.unique()))
 
 # shape of dataset
